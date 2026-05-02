@@ -322,6 +322,7 @@ kibana				269		269		acct
 logstash			270		270		acct
 spire				271		271		acct
 plugdev				-		272		acct
+gdm-greeter			272		-		acct		Used by gnome-base/gdm
 bacula				273		273		acct
 dnsmasq_exporter		274		274		acct
 dnsmasq				275		275		acct
