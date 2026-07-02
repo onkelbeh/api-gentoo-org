@@ -1774,13 +1774,13 @@
     <name>gentoo-zh</name>
     <description>To provide programs useful to Chinese speaking users (merged
       from gentoo-china and gentoo-taiwan).</description>
-    <homepage>https://github.com/microcai/gentoo-zh</homepage>
-    <owner type="person">
-      <email>microcai@fedoraproject.org</email>
+    <homepage>https://github.com/gentoo-zh/overlay</homepage>
+    <owner type="project">
+      <email>overlay@gentoozh.org</email>
     </owner>
-    <source type="git">https://github.com/microcai/gentoo-zh.git</source>
-    <source type="git">git+ssh://git@github.com/microcai/gentoo-zh.git</source>
-    <feed>https://github.com/microcai/gentoo-zh/commits/master.atom</feed>
+    <source type="git">https://github.com/gentoo-zh/overlay.git</source>
+    <source type="git">git+ssh://git@github.com/gentoo-zh/overlay.git</source>
+    <feed>https://github.com/gentoo-zh/overlay/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
     <name>gentoobr</name>
